@@ -1,0 +1,1 @@
+WEEK 3 đã tạm hoãn tiến trình nghiên cứu, mời các bạn điều hướng qua WEEK 2, nơi Nayn đang công tác dở để xem tiến độ nghiên cứu thuật toán!
