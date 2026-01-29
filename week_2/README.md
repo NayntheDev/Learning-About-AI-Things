@@ -1,3 +1,1 @@
-| Nội dung | Trạng thái | Link truy cập |
-| :--- | :---: | :--- |
-| **Lý thuyết Linear Regression** | 🚧 Đang viết | [![Docs](https://img.shields.io/badge/Read-View-blue...)]((https://docs.google.com/document/d/1rV1rGBVgo0R6JAv10Xj7bU2eAc_fvhwFF0di03TMlrY/edit?usp=sharing)) |
+[![Research Doc](https://img.shields.io/badge/Google%20Docs-View%20Research-blue?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1rV1rGBVgo0R6JAv10Xj7bU2eAc_fvhwFF0di03TMlrY/preview)
