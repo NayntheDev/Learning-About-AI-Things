@@ -98,3 +98,5 @@
 			3. Phép Chiếu (Projection)
 		+ visualize thuật toán
 	- thời hạn nộp tiểu báo cáo: từ 00h - 2h ngày 9/1
+
+*Báo cáo chậm tiến độ dự kiến, thời hạn kỳ vọng: 22 - 25/2
